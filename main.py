@@ -221,7 +221,7 @@ class MainWindow(QMainWindow):
 app = QApplication(sys.argv)
 
 # setting name to the application
-app.setApplicationName("Geek PyQt5")
+app.setApplicationName("Ansh Browser")
 
 # creating MainWindow object
 window = MainWindow()
